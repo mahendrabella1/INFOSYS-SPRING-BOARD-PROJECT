@@ -50,7 +50,7 @@ streamlit run app.py
 ## 🔗 API & Model Details
 - **Embeddings Model**: `sentence-transformers/all-MiniLM-L6-v2`
 - **Vector Database**: `Pinecone`
-- **Language Model**: `Ollama (Mistral)`
+- **Language Model**: `Ollama (llama 3.3-70b verstaile)`
 
 ## 🏗️ Future Enhancements
 - Implement **multi-document processing**.
